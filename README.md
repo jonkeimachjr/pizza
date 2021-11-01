@@ -1,2 +1,2 @@
 # pizza
-Web Page Demo
+Sample Web Page Demo
